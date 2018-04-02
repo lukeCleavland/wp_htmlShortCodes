@@ -7,7 +7,7 @@ Version: 1.0.0
 Author: Luke Cleavland
 */
 
-
+defined('ABSPATH') OR exit;
 function open_article(){
 	return "<article>";
 }
