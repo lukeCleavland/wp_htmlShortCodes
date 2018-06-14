@@ -64,10 +64,10 @@ Contact Page Template
 About Page Template
 [Sec]
 [D class="rs_row"]
-    [D class="rs_md" cols="one"]
+    [D class="rs_md" cols="one_third"]
     <img  src="image.jpg" alt="" />
     [xD]
-    [D class="rs_md" cols="three"]
+    [D class="rs_md" cols="two_thirds"]
     <h2>Title</h2>
         [P]
         copy
@@ -76,10 +76,10 @@ About Page Template
     [xD]
 [xD]
 [D class="rs_row"]
-    [D class="rs_md" cols="one"]
+    [D class="rs_md" cols="one_third"]
     <img  src="image.jpg" alt="" />
     [xD]
-    [D class="rs_md" cols="three"]
+    [D class="rs_md" cols="two_thirds"]
         <h2>Title</h2>
         [P]
         copy
@@ -89,16 +89,20 @@ About Page Template
 [xD]
 [D class="rs_row"]
     [D class="rs_md" cols="three"]
+        [D class="content_block"]
         <h2>Title</h2>
         [P]
         Copy
 
         [xP]
-
+        [xD]
+        [D class="content_block"]
+        <h2>Title</h2>
         [P]
         Copy
 
         [xP]
+        [xD]
     [xD]
     [D class="rs_md" cols="one"]
     <img  src="image.jpg" alt="" />
